@@ -194,12 +194,12 @@ main p {
   margin: 3% 3% 2% 0;
   height: auto;
   overflow: hidden;
-  width: 260;
 }
 
 .socials {
   list-style-type: none;
   padding: 0;
+  width: 260;
 }
 
 .socials li {
